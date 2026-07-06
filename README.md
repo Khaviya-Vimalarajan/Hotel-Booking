@@ -1,4 +1,4 @@
-# Emerald Resorts & Spa — Hotel Booking & Resort Management System
+# Emerald Resorts  — Hotel Booking & Resort Management System
 
 An enterprise-ready, boutique Hotel Booking & Resort Management System built using **Spring Boot 3 (Java 21)**, **React (Vite + Tailwind CSS)**, and **MySQL**.
 
